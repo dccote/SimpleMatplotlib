@@ -3,7 +3,7 @@
 ## Description
 This is a very simple set of functions that are designed to be simple to use, not necessarily complete or very versatile. They are meant to be used by students to rapidly create a plot from data with a decent, sane, readable style.
 
-This is borne out of a desire to help students and beginners who don't know Python, matplotlib or how to make a decent plot with their data. The default values tend to be somewhat moroninc in most plotting libraries, this is meant to help.
+This is borne out of a desire to help students and beginners who don't know Python, matplotlib or how to make a decent plot with their data. In most other libraries, the default values tend to be somewhat moronic: this is meant to help.
 
 ## Usage
 There are three tasks that students need to perform with experimental data:
